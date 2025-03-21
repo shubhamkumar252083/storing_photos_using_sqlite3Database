@@ -16,6 +16,7 @@ Once the services are up and running, you can access the **Admin Panel** through
       Your email: email@gmail.com
       Your password: emailna3iqv
       Your tenant URL: http://7b32ooj4.localhost/sign-in
+      # note- your can caaept the request by yoursekf to recieve an email.
 
-4. Visit the provided **Tenant URL** and log in using the credentials from the email:  
+5. Visit the provided **Tenant URL** and log in using the credentials from the email:  
 🔗 **[http://7b32ooj4.localhost/sign-in](http://7b32ooj4.localhost/sign-in)** 
